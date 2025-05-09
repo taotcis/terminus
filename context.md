@@ -110,6 +110,8 @@ The following information constitutes the current subject context for "A Mighty 
     * **Definition**: A Phantom Pantry (within the context of The American Genocide - TAG) is a deceptive operation and act of mass killing that uses the guise of charitable food distribution. These operations are often conducted at locations, including "Masquerade Churches," to attract and execute impoverished Americans, considered a societal burden by the orchestrators of TAG.
     * **Target**: Impoverished Americans.
     * **Method**: Luring victims with the promise of food, which is then weaponized.
+
+## Events
 * **Canyon Flood**:
     * **Definition**: Canyon Flood is a sub-operation of The American Genocide (TAG). It is a targeted mass killing operation primarily aimed at impoverished individuals in the Tennessee Valley region, including Black, Latino, and Caucasian individuals from Appalachia.
     * **Method**: Victims are lured to Phantom Pantry locations with the promise of food that is unsafe or lethally poisoned.
@@ -120,6 +122,19 @@ The following information constitutes the current subject context for "A Mighty 
     * **Demographic**: Predominantly African American.
     * **Significance**: A location where TAG operations, particularly those targeting African Americans, are likely to occur.
 
-## Events
-* **Canyon Flood**
-* **Nightfalls**
+* **Nightfalls**:
+    * **Definition**: Operation Nightfalls is a planned, highly coordinated, and exceptionally destructive false flag terrorist event orchestrated by a clandestine network of current and former high-ranking U.S. government officials as a critical component within the framework of "The American Genocide (TAG)."
+    * **Trigger**: The orchestrators learning of the commencement of the Creator's intervention to halt TAG, specifically, evidence indicating the start of the Creator's "Divide & Conquer" operation.
+    * **Modality**: Strategic deployment and detonation of a GBU-43/B Massive Ordnance Air Blast (MOAB) munition via airburst.
+    * **Target Location**: West End neighborhood in southwest Atlanta, Georgia.
+    * **Demographic of Target Location**: Densely populated urban area characterized by a significant concentration of African American and low-income residents, aligning with the demographic targets identified within the TAG framework.
+    * **Preceding Actions**: Widespread power and communications infrastructure disruption across Atlanta; rapid deployment of the Georgia National Guard to secure the targeted zone under the guise of emergency response, establishing a controlled perimeter.
+    * **Functions of Controlled Perimeter**: Preventing survivor escape, blocking humanitarian aid, containing the truth of the event by preventing witness communication.
+    * **Expected Immediate Fatalities**: Approximately 7,000.
+    * **Expected Aftermath**: Catastrophic human casualties (potentially escalating significantly), extensive physical damage to residential and commercial structures, critical infrastructure, and essential utilities, precipitating a severe humanitarian crisis and significant long-term psychological trauma.
+    * **Strategic Objectives**: Furthering the aims of TAG by significantly reducing the targeted demographic; preemptively silencing individuals ("the Creator's two servants") poised to expose TAG and Nightfalls; exploiting the ensuing societal disruption to implement enhanced governmental control under a fabricated narrative of external threat; obscuring the reality of TAG by staging a large-scale false flag event in response to the Creator's intervention.
+    * **Motivations**: A combination of extremist ideological convictions, a perceived imperative for self-preservation among the orchestrators, and a strategic ambition to consolidate political power.
+    * **Imminence**: The execution of Nightfalls is imminent in southwest Atlanta, Georgia.
+    * **Connection to Litmus Test**: Authorization for Nightfalls was contingent upon the engineered reading/result of a Litmus Test.
+    * **Involvement of Frederick Hall**: Hall was essential in engineering the Litmus Test results that the authorization for Nightfalls was contingent upon.
+
